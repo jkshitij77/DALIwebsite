@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DALIwebsite/static/css/main.12f688da.chunk.css",
+    "main.js": "/DALIwebsite/static/js/main.eb4499a2.chunk.js",
+    "main.js.map": "/DALIwebsite/static/js/main.eb4499a2.chunk.js.map",
+    "runtime-main.js": "/DALIwebsite/static/js/runtime-main.44ba54e7.js",
+    "runtime-main.js.map": "/DALIwebsite/static/js/runtime-main.44ba54e7.js.map",
+    "static/js/2.e458d1ab.chunk.js": "/DALIwebsite/static/js/2.e458d1ab.chunk.js",
+    "static/js/2.e458d1ab.chunk.js.map": "/DALIwebsite/static/js/2.e458d1ab.chunk.js.map",
+    "index.html": "/DALIwebsite/index.html",
+    "precache-manifest.d052d364b6651e18058fb0e86d4ffdea.js": "/DALIwebsite/precache-manifest.d052d364b6651e18058fb0e86d4ffdea.js",
+    "service-worker.js": "/DALIwebsite/service-worker.js",
+    "static/css/main.12f688da.chunk.css.map": "/DALIwebsite/static/css/main.12f688da.chunk.css.map",
+    "static/js/2.e458d1ab.chunk.js.LICENSE.txt": "/DALIwebsite/static/js/2.e458d1ab.chunk.js.LICENSE.txt",
+    "static/media/Berk.png": "/DALIwebsite/static/media/Berk.1949dfd9.png",
+    "static/media/webdev.jpg": "/DALIwebsite/static/media/webdev.7651a98c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44ba54e7.js",
+    "static/js/2.e458d1ab.chunk.js",
+    "static/css/main.12f688da.chunk.css",
+    "static/js/main.eb4499a2.chunk.js"
+  ]
+}
