@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/DALIwebsite/static/css/main.12f688da.chunk.css",
-    "main.js": "/DALIwebsite/static/js/main.eb4499a2.chunk.js",
-    "main.js.map": "/DALIwebsite/static/js/main.eb4499a2.chunk.js.map",
-    "runtime-main.js": "/DALIwebsite/static/js/runtime-main.44ba54e7.js",
-    "runtime-main.js.map": "/DALIwebsite/static/js/runtime-main.44ba54e7.js.map",
-    "static/js/2.e458d1ab.chunk.js": "/DALIwebsite/static/js/2.e458d1ab.chunk.js",
-    "static/js/2.e458d1ab.chunk.js.map": "/DALIwebsite/static/js/2.e458d1ab.chunk.js.map",
-    "index.html": "/DALIwebsite/index.html",
-    "precache-manifest.d052d364b6651e18058fb0e86d4ffdea.js": "/DALIwebsite/precache-manifest.d052d364b6651e18058fb0e86d4ffdea.js",
-    "service-worker.js": "/DALIwebsite/service-worker.js",
-    "static/css/main.12f688da.chunk.css.map": "/DALIwebsite/static/css/main.12f688da.chunk.css.map",
-    "static/js/2.e458d1ab.chunk.js.LICENSE.txt": "/DALIwebsite/static/js/2.e458d1ab.chunk.js.LICENSE.txt",
-    "static/media/Berk.png": "/DALIwebsite/static/media/Berk.1949dfd9.png",
-    "static/media/webdev.jpg": "/DALIwebsite/static/media/webdev.7651a98c.jpg"
+    "main.css": "/static/css/main.ce6a3f0c.chunk.css",
+    "main.js": "/static/js/main.d6545e38.chunk.js",
+    "main.js.map": "/static/js/main.d6545e38.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.700202a4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.700202a4.js.map",
+    "static/js/2.72af3e79.chunk.js": "/static/js/2.72af3e79.chunk.js",
+    "static/js/2.72af3e79.chunk.js.map": "/static/js/2.72af3e79.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cc7c68c1e5204f6fdac0476b7b86861b.js": "/precache-manifest.cc7c68c1e5204f6fdac0476b7b86861b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ce6a3f0c.chunk.css.map": "/static/css/main.ce6a3f0c.chunk.css.map",
+    "static/js/2.72af3e79.chunk.js.LICENSE.txt": "/static/js/2.72af3e79.chunk.js.LICENSE.txt",
+    "static/media/AmerFort.jpeg": "/static/media/AmerFort.d75c0842.jpeg",
+    "static/media/Berk.png": "/static/media/Berk.1949dfd9.png",
+    "static/media/kshitijcertificate.png": "/static/media/kshitijcertificate.50157995.png",
+    "static/media/wine.png": "/static/media/wine.b661dcc8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44ba54e7.js",
-    "static/js/2.e458d1ab.chunk.js",
-    "static/css/main.12f688da.chunk.css",
-    "static/js/main.eb4499a2.chunk.js"
+    "static/js/runtime-main.700202a4.js",
+    "static/js/2.72af3e79.chunk.js",
+    "static/css/main.ce6a3f0c.chunk.css",
+    "static/js/main.d6545e38.chunk.js"
   ]
 }
