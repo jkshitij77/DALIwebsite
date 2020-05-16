@@ -56,7 +56,7 @@ export default class App extends React.Component{
         <div id="main">
           <SideComponent name="WEBDEV"  url={require("./attachments/kshitijcertificate.png")} divclass="odddiv flip-box" imageclass="oddimages" />
           <SideComponent name="Unity"   url={"https://img-a.udemycdn.com/course/750x422/1210008_6859.jpg"} divclass="evendiv flip-box" imageclass="evenimages"/>
-          <SideComponent name="Frisbee" url={"https://www.dartmouth.edu/~ultimate/img/WholeTeam.jpg"} divclass="odddiv flip-box" imageclass="oddimages"/>
+          <SideComponent name="Frisbee" url={require("./attachments/fris.jpeg")} divclass="odddiv flip-box" imageclass="oddimages"/>
           <SideComponent name="Travel"  url={require("./attachments/AmerFort.jpeg")} divclass="evendiv flip-box" imageclass="evenimages"/>
         </div>
       </div>
@@ -64,3 +64,5 @@ export default class App extends React.Component{
     );
   }
 }
+
+// https://www.dartmouth.edu/~ultimate/img/WholeTeam.jpg
