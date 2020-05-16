@@ -12,8 +12,8 @@ font-size:7vh;
 }
 #main{
   display: flex;
-flex-direction:column; 
-padding-left:25vw;
+  flex-direction:column; 
+  padding-left:25vw;
 }
 #menu{
   height:100vh;
@@ -80,6 +80,7 @@ border-radius: 50%;
 display:flex;
 flex-direction: row;
 justify-content: space-around;
+z-index: 5;
 }
 hr{
 border-style:none;
@@ -117,57 +118,9 @@ margin-top:1vh;
   color: whitesmoke;
   transform: rotateY(180deg);
 }
-
-.parent:hover .slideleft, .parent.hover .slideleft {
-  left:-50vw ;
- }
-.parent:hover .slideright, .parent.hover .slideright {
- right:-50vw ; 
-}
-.slideleftimg{
-width:50vw;
-height:100vh;
-}
-.slideleft {
- position: fixed;
- left: 0;
- -webkit-transition-duration: 3.0s;
- -moz-transition-duration: 3.0s;
- -o-transition-duration: 3.0s;
- transition-duration: 3.0s;
- 
- -webkit-transition: all 3s ease-in-out ;
- transition: all  3s ease-in-out ;
- -moz-transition:all 3s ease-in-out ;
- -o-transition:all 3s ease-in-out ;
-}
-.sliderightimg{
- width:50vw;
- height:100vh;
- }
- .slideright {
-   position: fixed;
-   right: 0;
-   -webkit-transition-duration: 3.0s;
-   -moz-transition-duration: 3.0s;
-   -o-transition-duration: 3.0s;
-   transition-duration: 3.0s;
-
-   -webkit-transition: all 3s ease-in-out ;
-   transition: all  3s ease-in-out ;
-   -moz-transition:all 3s ease-in-out ;
-   -o-transition:all 3s ease-in-out ;
- }
  .parent{
 height:100vh;
 width:100vw;
- }
-.maindisplay{
-position: absolute;
- }
- .daliimgages{
-height:100vh;
-width:50vw;;
  }
  .alignCentre{
    text-align: justify;
@@ -181,10 +134,20 @@ width:50vw;;
   }
 
   #kegLink{
-    color: white;
+    color: dodgerblue;
   }
 
   .kegPic{
     height: 15vh;
     width: 15vh;
   }
+
+.lessWidth{
+  display: flex;
+  flex-direction: column;
+}
+
+.para{
+  font-size: larger;
+  line-height: 2;
+}
